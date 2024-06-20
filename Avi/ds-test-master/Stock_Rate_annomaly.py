@@ -6,7 +6,7 @@ from sklearn.decomposition import PCA
 import matplotlib
 import random
 
-kkkkkkkkk
+
 
 
 def calc_E_M(X,M):
